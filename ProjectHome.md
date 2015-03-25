@@ -1,0 +1,1 @@
+this project hosts files for some open source packages in Npackd (http://code.google.com/p/windows-package-manager/)
